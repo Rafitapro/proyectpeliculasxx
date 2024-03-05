@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Albums</title>
+<!-- TemplateEndEditable -->
+<link href="estilos2.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="Principal">
+  <div id="encabezado">
+	<div id="logo"><img src="Proyecto/Rollo de peli.png" width="100" height="100" alt=""/></div>
+	<div id="titulo"><!-- TemplateBeginEditable name="titulo" -->titulo<!-- TemplateEndEditable --></div>
+	</div>
+	  <div id="menu"><!-- TemplateBeginEditable name="Menu" --><a href="Templates/Index.dwt">Inicio </a>| <a href="Peliculas.html">Peliculas</a> | <a href="noticias.html">Noticias</a><!-- TemplateEndEditable --></div>
+	  <div id="cuerpo"><!-- TemplateBeginEditable name="contenido" -->
+        <p>&nbsp;</p>
+	    <!-- TemplateEndEditable --></div>
+		  <div id="pie">
+		    <div id="derechos">Todos los derechos reservados 2024 &copy;</div>
+			  <div id="redes"></div>
+		  </div>
+	  
+</div>
+</body>
+</html>
